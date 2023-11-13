@@ -26,6 +26,6 @@ Development of evaluation indicators for IPO and customer services for the conve
 <img width="631" alt="IPO_Indiactors_CS_Prototype" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/03a4ce85-16f0-4aa6-ba74-a7c7072b7aae">
 
 ## 🏆 최종결과
-- 모델 정확도 74.17%
-- 모델 재현율 65.12%
+- Model Accuracy 74.17%
+- Model Recall 65.12%
 - 제 5회 미래에셋증권 빅데이터 페스티벌 빅데이터 부문 **우수상**
