@@ -6,7 +6,7 @@ Development of evaluation indicators for IPO and customer services for the conve
 
 - 과거 유사종목 비교, 기업분석 요약, 고객 맞춤 추천서비스 등 공모주 투자편의 서비스 제안
 
-- Streamlit을 활용한 WebPage 배포로 활용성 극대화 | [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit) | [Webpage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
+- Streamlit을 활용한 WebPage 배포로 활용성 극대화 | [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit) | [WebPage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
 
 
 <img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
@@ -26,7 +26,7 @@ Development of evaluation indicators for IPO and customer services for the conve
 
 <br/><br/>
 
-## 🕸️ Web page mock-up
+## 🕸️ Web Page mock-up
 
 <img width="969" alt="스크린샷 2023-12-30 오전 1 45 37" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/ec01d684-9c8b-4024-9199-3149a0b06ffd">
 
