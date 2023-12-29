@@ -5,8 +5,8 @@ Development of evaluation indicators for IPO and customer services for the conve
 - MZ세대의 점유율을 높이기 위한 공모주 청약에 대한 판단 지표 개발
 
 - Streamlit을 활용한 WebPage 배포로 활용성 증가
-- [Streamlit Code] (https://github.com/GGoodong/Miraeasset_Streamlit)
-- [WebPage Link] (https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
+- [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit)
+- [WebPage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
 
 
 <img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
