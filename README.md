@@ -4,7 +4,7 @@ Development of evaluation indicators for IPO and customer services for the conve
 ## ✍ 요약
 - MZ세대의 점유율을 높이기 위한 공모주 청약에 대한 판단 지표 개발
 
-- 과거 유사종목 비교, 기업분석 요약, 고객맞춤 추천서비스 등 공모주 투자편의 서비스 제안
+- 과거 유사종목 비교, 기업분석 요약, 고객 맞춤 추천서비스 등 공모주 투자편의 서비스 제안
 
 - Streamlit을 활용한 WebPage 배포로 활용성 극대화 | [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit) | [Webpage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
 
