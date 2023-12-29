@@ -4,9 +4,7 @@ Development of evaluation indicators for IPO and customer services for the conve
 ## ✍ 요약
 - MZ세대의 점유율을 높이기 위한 공모주 청약에 대한 판단 지표 개발
 
-- Streamlit을 활용한 WebPage 배포로 활용성 증가
-- [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit)
-- [WebPage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
+- Streamlit을 활용한 WebPage 배포로 활용성 증가 | [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit) | [Webpage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
 
 
 <img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
@@ -21,11 +19,11 @@ Development of evaluation indicators for IPO and customer services for the conve
 
 <br/><br/>
 
-<img width="1142" alt="IPO_Indiactors_CS_Modeling_result" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/2be73cc7-c041-4413-9b55-b426e6e5d6ef">
+<img width="662" alt="스크린샷 2023-12-30 오전 1 56 25" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/b8186810-83db-4dc1-a286-8d6170d9e9ae">
 
 <br/><br/>
 
-## 🕸️ Web Page mock-up
+## 🕸️ Web page mock-up
 
 <img width="969" alt="스크린샷 2023-12-30 오전 1 45 37" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/ec01d684-9c8b-4024-9199-3149a0b06ffd">
 
