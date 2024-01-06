@@ -9,7 +9,7 @@ Development of evaluation indicators for IPO and customer services for the conve
 - Streamlit을 활용한 WebPage 배포로 활용성 극대화 | [Streamlit Code](https://github.com/GGoodong/Miraeasset_Streamlit) | [WebPage Link](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
 
 
-<img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
+<img width="1177" alt="Untitled" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/c75e8e1e-bfc5-42af-9aa7-6262dc67aba4">
 
 <br/><br/>
 
